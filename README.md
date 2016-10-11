@@ -2,7 +2,7 @@
 
 ## What?
 
-Many times, in places like college or with vacations or various other parts of life, we come to a point where we would like to trade with others. More specifically, we want to be part of a trading circle: person A gives something person B wants to person B, person B to person C, ..., person K to person A.
+Many times, in places like college or with vacations or various other parts of life, we come to a point where we would like to trade with others. More specifically, we want to be part of a trading circle: person A gives something person B, person B to person C, ..., person K to person A.
 
 Unfortunately, we can't talk to everybody and don't know of people who have whatever we'd like. Or, maybe, we don't know if we can trade with multiple people to form longer trading chains.
 
